@@ -1,4 +1,4 @@
-# Group-H
+# Simple To-Do List Creator
 About
 I Develop This Code Using Python Which Helps You Add, Delete and Store Your To-Do Tasks
 You Can Add Task By Typing '1'
